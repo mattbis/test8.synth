@@ -1,5 +1,3 @@
-## not how i would organise a repo.. but this is probably the best template generated repo.. 
-
 ### PLAN
 
 #### ENGINE
